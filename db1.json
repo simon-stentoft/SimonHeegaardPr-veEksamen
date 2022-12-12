@@ -1,0 +1,22 @@
+{
+    "kunder": [
+        {
+            "id": 1,
+            "by": "Korsør",
+            "postnr": "4500",
+            "adresse": "Hej123",
+            "beskrivelse": "Pærer",
+            "tidspunkt": "25/9-22 kl 15-20",
+            "telefon": "12345678"
+        },
+        {
+            "id": 2,
+            "by": "Herning",
+            "postnr": "9999",
+            "adresse": "Nej 32",
+            "beskrivelse": "Pærer",
+            "tidspunkt": "28/9-22 kl 15-20",
+            "telefon": "99877653"
+        }
+    ]
+}
